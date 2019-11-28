@@ -1,0 +1,8 @@
+    // $sql="SELECT * FROM user WHERE iud = $id";
+    // $stmt = $conn->query($sql);
+    //
+    // $stmt->execute();
+    //
+    // $res = $stmt->fetchAll();
+    // var_dump($res);
+    // echo $res[0]['nome'];
